@@ -1,0 +1,2 @@
+﻿  tracing.cpp
+c:\users\mihailshukin\source\repos\tracing\tracing\tracing.cpp(5): fatal error C1083: Не удается открыть файл включение: opencv2/core.hpp: No such file or directory,
